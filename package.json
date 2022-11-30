@@ -6,7 +6,8 @@
     "dev": "nuxi dev",
     "build": "nuxi build",
     "generate": "nuxi build",
-    "preview": "nuxi preview"
+    "preview": "nuxi preview",
+    "start" : "nuxi start"
   },
   "devDependencies": {
     "nuxt": "npm:nuxt3@latest",
